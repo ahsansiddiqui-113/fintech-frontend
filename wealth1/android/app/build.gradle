@@ -1,0 +1,48 @@
+plugins {
+    id "com.android.application"
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+android {
+    namespace "com.inexor.wealthnx.ai"
+
+    compileSdk 35
+
+    // ✅ Explicitly set NDK version to ensure 16 KB page size support
+    ndkVersion "26.3.11579264"
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+
+    defaultConfig {
+        applicationId "com.inexor.wealthnx.ai"
+        minSdkVersion 23
+        targetSdkVersion 35
+        versionCode 6
+        versionName "1.0.6"
+        multiDexEnabled true // (Optional) ensures stability for large method counts
+    }
+
+    buildTypes {
+        release {
+            // Replace this with your real signing config when ready
+            signingConfig signingConfigs.debug
+
+            // ✅ Recommended: enable R8 for better optimization
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    dependencies {
+        implementation 'org.java-websocket:Java-WebSocket:1.5.6'
+        implementation 'com.plaid.link:sdk-core:5.0.0'
+    }
+}
+
+flutter {
+    source = "../.."
+}

@@ -1,0 +1,2 @@
+/Users/4star/flutterprojects/inexorfront/WealthNX_FrontEnd/wealth1/android/app/.cxx/RelWithDebInfo/5ls3t4r4/x86/CMakeFiles/edit_cache.dir
+/Users/4star/flutterprojects/inexorfront/WealthNX_FrontEnd/wealth1/android/app/.cxx/RelWithDebInfo/5ls3t4r4/x86/CMakeFiles/rebuild_cache.dir

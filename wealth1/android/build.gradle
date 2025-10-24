@@ -1,0 +1,35 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+
+    dependencies {
+        // ✅ Updated for Android 15 and NDK 26.3 compatibility
+        classpath 'com.android.tools.build:gradle:8.6.1'
+
+        // ✅ Kotlin 1.9.24 is the stable version fully supported by Flutter 3.29.2
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.24"
+
+        // ✅ Google Services plugin (latest stable version)
+        classpath 'com.google.gms:google-services:4.4.2'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.buildDir = "../build"
+
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+    project.evaluationDependsOn(":app")
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}

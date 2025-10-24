@@ -1,0 +1,226 @@
+{
+  "project_info": {
+    "project_number": "445079146163",
+    "project_id": "wealtai-inexor",
+    "storage_bucket": "wealtai-inexor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445079146163:android:27c0bcef7f356ad77beac6",
+        "android_client_info": {
+          "package_name": "com.example.wealth1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445079146163-5o0uhjnudi7tvs8nnr6eqn1m200sp2fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wealth1",
+            "certificate_hash": "613a19e062af0f0756779301400fcdf92a3aa446"
+          }
+        },
+        {
+          "client_id": "445079146163-a65dhud6vd8d7vek0815ohunc2ep7f3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wealth1",
+            "certificate_hash": "baca564504aeb6821b521ed6af735c963e14b20a"
+          }
+        },
+        {
+          "client_id": "445079146163-ej3rtr6m5aq11t5u398bkcrehcbpvdli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wealth1",
+            "certificate_hash": "a3d120fa0d63fe3044a798a0c3eeab4ecc255ccf"
+          }
+        },
+        {
+          "client_id": "445079146163-tmn166q09vfrv199n3v2vc3n5o48c91i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wealth1",
+            "certificate_hash": "359d3cdfdb7eaa37d46a2642c98d3c58bc1152f2"
+          }
+        },
+        {
+          "client_id": "445079146163-ghoru2batsgham28j7q2tbjg3m3kjtf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIrFGKNfeFbJZP-Xx3DDh8uTC3rIxomR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445079146163-ghoru2batsgham28j7q2tbjg3m3kjtf2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445079146163-bar0th8qndgk2rokq69b807sked5s5qe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wealth1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445079146163:android:e8e4ecc1b86d29907beac6",
+        "android_client_info": {
+          "package_name": "com.example.wealthnx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445079146163-0nhflb0p1665houlm3tvij3jh81jc743.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wealthnx",
+            "certificate_hash": "baca564504aeb6821b521ed6af735c963e14b20a"
+          }
+        },
+        {
+          "client_id": "445079146163-225k17eefossqo4gveorua3t8v4mfkpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wealthnx",
+            "certificate_hash": "359d3cdfdb7eaa37d46a2642c98d3c58bc1152f2"
+          }
+        },
+        {
+          "client_id": "445079146163-pdf6lio5crih87mpfftqd23cppsnbr7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wealthnx",
+            "certificate_hash": "a3d120fa0d63fe3044a798a0c3eeab4ecc255ccf"
+          }
+        },
+        {
+          "client_id": "445079146163-ghoru2batsgham28j7q2tbjg3m3kjtf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIrFGKNfeFbJZP-Xx3DDh8uTC3rIxomR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445079146163-ghoru2batsgham28j7q2tbjg3m3kjtf2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445079146163-bar0th8qndgk2rokq69b807sked5s5qe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wealth1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445079146163:android:f40788f7198f29977beac6",
+        "android_client_info": {
+          "package_name": "com.example.wealthnxnx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445079146163-ss2apihqv65uh2sk0dtiun03f01cl9q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wealthnxnx",
+            "certificate_hash": "a3d120fa0d63fe3044a798a0c3eeab4ecc255ccf"
+          }
+        },
+        {
+          "client_id": "445079146163-ghoru2batsgham28j7q2tbjg3m3kjtf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIrFGKNfeFbJZP-Xx3DDh8uTC3rIxomR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445079146163-ghoru2batsgham28j7q2tbjg3m3kjtf2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445079146163-bar0th8qndgk2rokq69b807sked5s5qe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wealth1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445079146163:android:5a3b4a1de0c163227beac6",
+        "android_client_info": {
+          "package_name": "com.inexor.wealthnx.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445079146163-4n1pfs5jdv51bmosp0gptchgtcdtq1fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inexor.wealthnx.ai",
+            "certificate_hash": "a3d120fa0d63fe3044a798a0c3eeab4ecc255ccf"
+          }
+        },
+        {
+          "client_id": "445079146163-ghoru2batsgham28j7q2tbjg3m3kjtf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIrFGKNfeFbJZP-Xx3DDh8uTC3rIxomR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445079146163-ghoru2batsgham28j7q2tbjg3m3kjtf2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445079146163-bar0th8qndgk2rokq69b807sked5s5qe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wealth1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+class NetWorthSummary {
+  final String monthName;
+  final double asset;
+  final double liabilities;
+
+  NetWorthSummary({
+    required this.monthName,
+    required this.asset,
+    required this.liabilities,
+  });
+
+  factory NetWorthSummary.fromJson(Map<String, dynamic> json) {
+    return NetWorthSummary(
+      monthName: json['monthName'] ?? '',
+      asset: (json['asset'] ?? 0).toDouble(),
+      liabilities: (json['liabilities'] ?? 0).toDouble(),
+    );
+  }
+}

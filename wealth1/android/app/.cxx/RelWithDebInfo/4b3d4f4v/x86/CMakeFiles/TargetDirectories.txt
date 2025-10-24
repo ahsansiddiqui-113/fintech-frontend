@@ -1,0 +1,2 @@
+/Users/4star/flutterprojects/WealthNX_Backend/WealthNx/wealth1/WealthNx/wealth1/android/app/.cxx/RelWithDebInfo/4b3d4f4v/x86/CMakeFiles/edit_cache.dir
+/Users/4star/flutterprojects/WealthNX_Backend/WealthNx/wealth1/WealthNx/wealth1/android/app/.cxx/RelWithDebInfo/4b3d4f4v/x86/CMakeFiles/rebuild_cache.dir

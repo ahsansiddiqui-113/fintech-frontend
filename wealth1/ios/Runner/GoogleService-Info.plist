@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>445079146163-k7qpk0fnvp21k4sk0h462tqgcd48okvr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.445079146163-k7qpk0fnvp21k4sk0h462tqgcd48okvr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>445079146163-0nhflb0p1665houlm3tvij3jh81jc743.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDQF5ys0ySmP2WYAxyX6AxnqRGVfqoEI5o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>445079146163</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.inexor.wealthnx.ai</string>
+	<key>PROJECT_ID</key>
+	<string>wealtai-inexor</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wealtai-inexor.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:445079146163:ios:33eea0789489d6817beac6</string>
+</dict>
+</plist>

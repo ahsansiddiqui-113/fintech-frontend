@@ -1,0 +1,2 @@
+D:/WealthNX_Backend/WealthNx/wealth1/WealthNx/wealth1/android/app/.cxx/RelWithDebInfo/3h2xu584/x86_64/CMakeFiles/edit_cache.dir
+D:/WealthNX_Backend/WealthNx/wealth1/WealthNx/wealth1/android/app/.cxx/RelWithDebInfo/3h2xu584/x86_64/CMakeFiles/rebuild_cache.dir

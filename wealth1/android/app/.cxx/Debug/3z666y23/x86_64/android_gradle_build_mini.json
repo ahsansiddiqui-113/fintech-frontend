@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/4star/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/4star/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/4star/flutterprojects/inexorproject/WealthNX_Backend/WealthNx/wealth1/WealthNx/wealth1/android/app/.cxx/Debug/3z666y23/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/4star/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/4star/flutterprojects/inexorproject/WealthNX_Backend/WealthNx/wealth1/WealthNx/wealth1/android/app/.cxx/Debug/3z666y23/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
